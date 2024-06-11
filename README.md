@@ -2,15 +2,12 @@
 
 Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will reflect on key concepts, practical experiences, and the tools you've encountered or used in API interactions.
 
-1. **Understanding and Application**: Reflecting on the key concepts, can you explain in your own words what an API is and its significance in software development?
-Application Programming Interface. Facilitate various pieces of software to exchange data.
-
-2. Provide an example of how you have used or encountered an API in a project or a practical scenario.
-   
+1. Understanding and Application: Reflecting on the key concepts, can you explain in your own words what an API is and its significance in software development? Provide an example of how you have used or encountered an API in a project or a practical scenario.
+  
 
 The significance of API is that it serves as a middleman, allowing developers to create software that makes use of the functionality and data offered by another application or service. 
 
-Unbeknownst I have been encountering API's in my day-to-day life. Examples include Spotify, a Weather application, an online payment portal (Takealot), remote controls and IOT devices at home.    
+Unbeknownst I have been encountering API's in my day-to-day life. Examples include Spotify, a Weather application, an online payment portal (Takealot), remote controls, and IOT devices at home.    
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API?
 
@@ -47,13 +44,13 @@ Library and Framework APIs: These are sets of routines, protocols, and tools bun
 Database APIs: Interfaces enable communication between an application and a database, allowing for data retrieval, storage, modification, and deletion.
 Hardware APIs: These interfaces allow software to interact, control, and retrieve data from hardware devices.
 
-I'm most intrigued by the Hardware API. These smart devices can provide automation in your home. An example is being able to switch on the light, alarm, and pool pump from your an app on your cellphone. 
+I'm most intrigued by the Hardware API. These smart devices can provide automation in your home. An example is being able to switch on the light, alarm, and pool pump from your app on your cellphone. 
 
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
-I have used Curl in the Spotify Developer site as shown on the Tutorial. The Get tool for the Beyonce album and specific song "We Run the World"  Initially I  struggled because it's very specific with regards to characters. I too had an extra forward slash and did not copy the code correctly.  Additionally, I had some trouble loading Curl in Terminal.
+I have used Curl on the Spotify Developer site as shown in the Tutorial. The Get tool for the Beyonce album and specific song "We Run the World"  Initially I  struggled because it's very specific with regards to characters. I too had an extra forward slash and did not copy the code correctly.  Additionally, I had some trouble loading Curl in Terminal.
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
 
-I feel confident in identifying why an API would be necessary. How it is used specifically in the Spotify app example. It makes sense because it's something that I use daily. I can also wrap my head around the pay portal and weather app. I definetly need to brush up on the commands and requesting the commands (Get, Post, Put, Delete)  in devtools. I have not expolored any of the libraries and have not attempted to run or include an api in my own project. I will have to redo and practice with a tutorial. 
+I feel confident in identifying why an API would be necessary. How it is used specifically in the Spotify app example. It makes sense because it's something that I use daily. I can also wrap my head around the pay portal and weather app. I definetly need to brush up on the commands and requesting the commands (Get, Post, Put, Delete)  in devtools. I have not explored any of the libraries and have not attempted to run or include an API in my project. I will have to redo and practice with a tutorial. 
