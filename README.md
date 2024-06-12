@@ -1,6 +1,5 @@
 ## [SDF10] API Learning Reflection 🧠
 
-Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will reflect on key concepts, practical experiences, and the tools you've encountered or used in API interactions.
 
 1. Understanding and Application: Reflecting on the key concepts, can you explain in your own words what an API is and its significance in software development? Provide an example of how you have used or encountered an API in a project or a practical scenario.
   
